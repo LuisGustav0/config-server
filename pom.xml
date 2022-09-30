@@ -24,7 +24,7 @@
     </properties>
 
     <dependencies>
-        <!-- Spring Framework Cloud -->
+        <!-- Spring Framework Cloud Config Server -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-config-server</artifactId>
